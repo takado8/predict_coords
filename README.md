@@ -16,4 +16,5 @@ model.newCNNNetwork('test01')
 model.predict()
 ```
 ## Results
+#### draw predicted circle (grey) on original image
 ![img1](predict_coord_results.jpg)
